@@ -1,5 +1,7 @@
 # The Ionic Super Starter 🎮
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Ravinderz/moneypal.svg)](https://greenkeeper.io/)
+
 _Note: the Ionic Super Starter requires Ionic CLI 3._
 
 <img src="super2.png" width="400" />
